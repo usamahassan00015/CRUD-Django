@@ -1,0 +1,53 @@
+{
+    "emmet.includeLanguages": {
+        "django-html": "html",
+        "jinja-html": "html"
+    },
+    // "workbench.colorCustomizations": {
+    //     "editorBracketHighlight.foreground1": "#FFA500",
+    //     "editorBracketHighlight.foreground2": "#FF69B4",
+    //     "editorBracketHighlight.foreground3": "#00FF7F",
+    //     "editorBracketHighlight.foreground4": "#00FFFF",
+    //     "editorBracketHighlight.foreground5": "#F7FF00",
+    //     "editorBracketHighlight.foreground6": "#FF00FF"
+    // },
+    
+    // "workbench.colorTheme": "Cobalt2",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "DejaVu Sans Oblique, Dank Mono, Fira Code Light",
+    "editor.fontSize": 15,
+    "editor.lineHeight":25,
+    "editor.letterSpacing": 1.5,
+    // "editor.fontWeight": 500,
+    "editor.cursorSurroundingLines": 15,
+    "editor.cursorStyle": "underline",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "phase",
+    "editor.renderWhitespace": "all"
+    // "editor.tokenColorCustomizations": {
+    //     "textMateRules": [
+    //       {
+    //         "scope": "constant.other.color.rgb-value.hex.css",
+    //         "settings": {
+    //           "foreground": "#F7FF00"
+    //         }
+    //       }
+    //     ]
+    //   }
+}
+// {
+//   "workbench.colorTheme": "Cobalt2",
+//   "workbench.iconTheme": "material-icon-theme",
+//   "editor.fontFamily": "Fira Code",
+//   "editor.fontLigatures": true,
+//   "editor.tokenColorCustomizations": {
+//     "textMateRules": [
+//       {
+//         "scope": "constant.other.color.rgb-value.hex.css",
+//         "settings": {
+//           "foreground": "#F7FF0"
+//         }
+//       }
+//     ]
+//   }
+// }
